@@ -1,0 +1,16 @@
+.paragraaf_1{
+    box-sizing: border-box;
+    width: calc(50% - 5px);
+    border: solid black 1px;
+    padding: 5px;
+    float:left;
+    margin-right: 5px;
+}
+.paragraaf_2{
+    box-sizing: border-box;
+    width: calc(50% - 5px);
+    border: solid black 1px;
+    padding: 5px;
+    float:right;
+    margin-left: 5px;
+}

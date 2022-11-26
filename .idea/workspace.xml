@@ -5,6 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381ffa34-9005-4542-b32c-42033d439222" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_ipsum_extra_space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/opdracht_cocktailbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/styles/Lorem_ipsum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/styles/Lorem_ipsum_extra_space.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/styles/cocktailbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/voorbeeld_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/voorbeeld_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/voorbeeld_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/voorbeeld_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,6 +71,7 @@
       <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Labo_7\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Flexibox" />
       <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Labo_3\homepage\images" />
     </key>
   </component>
@@ -79,7 +97,10 @@
       <workItem from="1667981264376" duration="6422000" />
       <workItem from="1668259180755" duration="5472000" />
       <workItem from="1668968686035" duration="1677000" />
-      <workItem from="1669130744390" duration="1006000" />
+      <workItem from="1669130744390" duration="1346000" />
+      <workItem from="1669190817975" duration="4607000" />
+      <workItem from="1669468385056" duration="770000" />
+      <workItem from="1669469174142" duration="6072000" />
     </task>
     <servers />
   </component>
