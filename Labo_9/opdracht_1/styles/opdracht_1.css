@@ -10,8 +10,8 @@ img {
     margin: 10px;
 }
 article:nth-child(odd) img{
-    float: right;
+    float: left;
 }
 article:nth-child(even) img{
-    float:left;
+    float:right;
 }
