@@ -6,6 +6,205 @@
   <component name="ChangeListManager">
     <list default="true" id="381ffa34-9005-4542-b32c-42033d439222" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/.idea/frontendmentorprofilecardBeginSituatie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/fonts/kumbh.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/images/bg-pattern-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/images/bg-pattern-card.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/images/bg-pattern-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/images/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/images/image-victor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexibox/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Composition_A/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Composition_A/styles/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Composition_A/styles/composition_A.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/images/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/images/cat1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/images/cat2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/images/cat3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/images/cat4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Oefening_1/styles/opdracht_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/images/Pils.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/images/fototje.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/Personal_homepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Personal_homepage/styles/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/bootstrap_oef_2/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/bootstrap_oef_2/style/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/bootstrap_oef_2/style/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/bootstrap_oef_2/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/.idea/Grid Exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/exercise1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/exercise2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/exercise3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/exercise4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/exercise5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/css/exercise6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/exercise1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/exercise2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/exercise3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/exercise4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/exercise5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/exercise6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/homepage/images/Pils.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/homepage/images/fototje.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/homepage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/opdrachten_1_2_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_3/opleidingsaanbod/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/screenshot_boom_opdracht2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/screenshot_uitbreiding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/images/screenshot_uitbreiding_na_compressor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/hobby.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/images/Pils.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/images/fototje.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_4/opdracht_5/likes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/designsWebs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/screenshotStyleVives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssInligneMiras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssInligneVrt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssInlineStyleVives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssStyleMiras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssStyleSheetVives.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssStyleVrt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/ssStylesheetVrt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/sslinkMiras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/images/uitlegExEm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_6/styles/stijl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_5/styles/stylesheetOpdracht3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/images/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/images/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/images/images2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/images/notchecked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/images/powerranger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/opdracht_6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/styles/opdracht_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/styles/opdracht_3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/styles/opdracht_5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/styles/opdracht_6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/images/Pils.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/images/Schermafbeelding 2022-11-12 145710.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/images/fototje.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/images/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/images/nature blog example.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_Kalender.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/opdracht_NatureBlog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/styles/OpdrachtNatureBlog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/styles/opdracht_2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/styles/opdracht_Kalender.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_ipsum_extra_space.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/background.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/black.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/chai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/cocktail.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/cocktails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/green.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/lightblue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/red.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/images/yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/opdracht_cocktailbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/styles/Lorem_ipsum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/styles/Lorem_ipsum_extra_space.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/styles/cocktailbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/voorbeeld_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/voorbeeld_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/voorbeeld_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/voorbeeld_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_1/Images/flight1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_1/Images/flight2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_1/Images/flight3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_1/Images/flight4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_1/styles/opdracht_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/A380Grond.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/Britischairways.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/abramovich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/airbus_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/bgsky1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/bgsky2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/bgsky3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/binnen1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/binnen2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/binnen3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/cockpit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/indelucht.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/indelucht2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/pagebackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/pasagiers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/qantas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/tek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/tekening.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/tekklein.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/fotos/transport.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_9/opdracht_2/styles/opdracht_2.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +216,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Less File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,28 +232,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MediaMarkt/OneDrive/Documenten/eerste jaar toegepaste informatica/web dev/GitHub/webdevelopment/Labo_10/Personal_homepage&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/MediaMarkt/OneDrive/Documenten/eerste jaar toegepaste informatica/web development/GitHub/webdevelopment",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Inhoud-versie1\styles" />
+      <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Voorbeeld_examen" />
       <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Labo_10\Personal_homepage" />
       <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Labo_10" />
       <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Flexibox\styles" />
-      <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Flexibox" />
-      <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Flexibox\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MediaMarkt\OneDrive\Documenten\eerste jaar toegepaste informatica\web dev\GitHub\webdevelopment\Flexibox" />
@@ -93,6 +293,13 @@
       <workItem from="1670678561255" duration="2306000" />
       <workItem from="1670682703244" duration="4487000" />
       <workItem from="1671004918604" duration="5299000" />
+      <workItem from="1671587667534" duration="1164000" />
+      <workItem from="1672846193226" duration="5005000" />
+      <workItem from="1673957745183" duration="14866000" />
+      <workItem from="1674023864134" duration="668000" />
+      <workItem from="1674027690559" duration="8505000" />
+      <workItem from="1674037687601" duration="79000" />
+      <workItem from="1676128106229" duration="634000" />
     </task>
     <servers />
   </component>
